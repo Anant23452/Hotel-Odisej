@@ -1,0 +1,101 @@
+@media screen and (max-width: 768px) {
+    .page1{
+        background-color: red;
+        height: 80vh;
+    }
+    .main{
+        overflow: hidden;
+    }
+    .page1 nav{
+        /* background-color: red; */
+    }
+    .home > h1 {
+        font-size: 14vw;
+      
+      }
+      .home {
+        width: 100%;
+        height: 22vh;
+      justify-content: center;
+        line-height: 5vh;
+        letter-spacing: 1.1px;
+      }
+    .page1 .left{
+        /* background-color: green; */
+        
+    }
+    nav .right {
+        /* background-color: rgb(193, 222, 193); */
+        width: 54vw;
+        height: 100%;
+        font-size: 2vw;
+       
+      }
+    nav .left span{
+        width: 28px;
+        height: 3px;
+        background-color:   #434B34;
+        border-radius: 5px;
+        margin: 2px 1px;
+    }
+    .page2{
+        font-size: 4vw;
+
+    }
+    .page2 h1{
+        line-height: 7vh;
+    }
+    .page3{
+        flex-direction: column;
+        /* background-color: red; */
+    }
+    .firstsvg {
+        width: 212vw;
+        height: 49vh;
+       
+      }
+      .page3 h1 {
+       
+        font-size: 8vw;
+       
+        margin-top: 72px;
+      }
+      .page4{
+        flex-direction: column;
+       height: 200vh;
+      }
+      .left {
+        width: 100%;
+        height: 47%;
+        /* background-color: red; */
+      }
+      .left-1 {
+        padding: 7vh 1vh;
+       
+      }
+      .left2{
+        flex-direction: column;
+      }
+      .left-1 button {
+        font-size: 7vw;
+        margin-top: 3vh;
+        padding: 8px;
+        background-color: transparent;
+        border-radius: 30px;
+      }
+      .right {
+        width: 80%;
+        height: 38%;
+        /* background-color: #c5eb7a; */
+      }
+      .right-img {
+        background-color: red;
+        width: 46vh;
+        height: 53vh;
+       
+      }
+      .left-1 p {
+        font-size: 4vh;
+       
+      }
+}
