@@ -85,7 +85,9 @@
       }
       .right {
         width: 80%;
-        height: 38%;
+        height: 59%;
+        justify-content: end;
+        align-items: end;
         /* background-color: #c5eb7a; */
       }
       .right-img {
@@ -95,7 +97,41 @@
        
       }
       .left-1 p {
-        font-size: 4vh;
+        font-size: 3vh;
+        text-align: center;
+        font-family: font1;
+        line-height: 7vh;
        
+      }
+      .left-1 button{
+        margin: 25px 74px;
+      }
+      .left-img {
+        width: 90%;
+        height: 33vh;
+       
+        border-radius: 37vh;
+        
+      }
+      .row{
+        height: 26.3%;
+      }
+      .page5 {
+       
+        height: 50vh;
+       
+      }
+      .show1 img {
+        
+        display: none;
+      }
+      .side-s{
+        width: 151vh;
+
+      }
+      .side {
+       
+        height: 93.6%;
+        
       }
 }
